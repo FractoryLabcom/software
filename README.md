@@ -1,6 +1,7 @@
 # DFNLab
 
-GitHub repository for DFNLab
+GitHub entry page for DFNLab.
+The project moved to GitLab: https://gitlab.com/fractorylab/dfnlab . Only allowed member can have access to this page.
 
 ## Description
 
