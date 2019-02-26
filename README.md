@@ -1,6 +1,6 @@
 # DFNLab
 
-GitHub repository for DFNLab
+GitHub entry page for DFNLab.
 
 ## Description
 
@@ -8,7 +8,7 @@ DFNLab is a software suite for Discrete Fracture Network generation, analyses, a
 
 ## The Team
 
-DFNLab is developed by the *Crack Factory*, a joint laboratory between Itasca Consultants, the CNRS and the University of Rennes.
+DFNLab is developed by the *Fractory*, a joint laboratory between Itasca Consultants, the CNRS and the University of Rennes.
 There is now 1 research director from the CNRS, 2 ITASCA scientists, 1 CNRS research engineer and 3 Ph. D. students.
 
 ## Where is the code
