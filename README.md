@@ -15,3 +15,5 @@ There is now 1 research director from the CNRS, 2 ITASCA scientists, 1 CNRS rese
 
 The code is not freely available, please contact r.legoc@itasca.fr or philippe.davy@univ-rennes1.fr to ask for an access. We provide  free access only to collaborators in academic research.
 
+## News
+The DFN.lab.page has been moved to https://gitlab.com/fractorylab/dfnlab
